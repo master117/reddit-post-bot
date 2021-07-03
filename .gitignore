@@ -1,0 +1,6 @@
+*.txt
+/posts
+/postlist.json
+/bin
+/obj
+/.vscode
